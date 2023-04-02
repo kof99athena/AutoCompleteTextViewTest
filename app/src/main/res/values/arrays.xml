@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sort">
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+    </string-array>
+
+</resources>
+
+    <!--entry는 문자열일때만 가능하다. -->
